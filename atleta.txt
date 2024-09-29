@@ -1,0 +1,2 @@
+10,Liu,20,ala
+03,Zenitsu,22,fixo
